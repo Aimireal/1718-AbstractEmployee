@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\user1\source\repos\abstractemployeeproject\abstractemployeeproject\main.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\user1\source\repos\abstractemployeeproject\abstractemployeeproject\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  AbstractEmployeeProject.vcxproj -> C:\Users\user1\source\repos\AbstractEmployeeProject\Debug\AbstractEmployeeProject.exe
+  AbstractEmployeeProject.vcxproj -> C:\Users\user1\source\repos\AbstractEmployeeProject\Debug\AbstractEmployeeProject.pdb (Partial PDB)
